@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Final Report")
 
-st.title("Midterm Checkpoint")
+st.title("Final Checkpoint")
 
 st.header('Introduction and Background')
 st.write('Flooding is a destructive force for communities. Because of abundant climate and weather data, it is difficult for humans to interpret this data to predict flooding. Machine learning (ML) provides new ways to utilize this data efficiently. Varying approaches including artificial neural networks, decision trees including random forests, long short-term memory (LSTMs), and support vector machines (SVMs) have been useful in flood prediction [1][2], and the accuracy of these is improved by optimizing the models and combining the models through algorithm ensemble [1].')
@@ -58,4 +58,4 @@ st.write('[10] Ibm. “What Is Random Forest?” IBM, 25 Oct. 2024, www.ibm.com/
 st.header('Gantt Chart')
 st.write('https://docs.google.com/spreadsheets/d/14JV9ATnk5HLtbtUmybd7S8qw2GmBIz_9/edit?usp=sharing&ouid=108468648048564250512&rtpof=true&sd=true')
 st.header('Contribution Table')
-st.write('https://docs.google.com/spreadsheets/d/1dApQIcvUl-MthNjfa1V3ELUzFv5_YK5NvMCyhfdKis0/edit?usp=sharing')
+st.write('https://docs.google.com/spreadsheets/d/1dApQIcvUl-MthNjfa1V3ELUzFv5_YK5NvMCyhfdKis0/edit?gid=810636487#gid=810636487')
