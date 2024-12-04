@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Final Report")
 
-st.title("Final Checkpoint")
+st.title("Final Report")
 
 st.header('Introduction and Background')
 st.write('Flooding is a destructive force for communities. Because of abundant climate and weather data, it is difficult for humans to interpret this data to predict flooding. Machine learning (ML) provides new ways to utilize this data efficiently. Varying approaches including artificial neural networks, decision trees including random forests, long short-term memory (LSTMs), and support vector machines (SVMs) have been useful in flood prediction [1][2], and the accuracy of these is improved by optimizing the models and combining the models through algorithm ensemble [1].')
